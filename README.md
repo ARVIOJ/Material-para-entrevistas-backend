@@ -8,6 +8,14 @@ https://www.w3schools.com/java/java_lambda.asp
 
 https://blog.devgenius.io/mastering-java-streams-and-lambdas-a-sum-of-even-numbers-example-a1a0ea87f20d
 
+### programacion funcional
+
+### clases abstracata
+
+### interface
+https://www.freecodecamp.org/espanol/news/interfaces-java-explicadas-con-ejemplos/
+
+
 ### practicar para las entrevistas
 https://coderbyte.com/sl
 
