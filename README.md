@@ -5,5 +5,5 @@ https://ed.team/comunidad/pilares-de-la-poo
 
 ### lambdas en java
 
-### coderbyte practicar 
+### coderbyte practicar para las entrevistas
 https://coderbyte.com/sl
