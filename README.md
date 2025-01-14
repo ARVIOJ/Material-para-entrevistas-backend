@@ -8,4 +8,5 @@ https://blog.devgenius.io/mastering-java-streams-and-lambdas-a-sum-of-even-numbe
 
 ### practicar para las entrevistas
 https://coderbyte.com/sl
+
 https://www.hackerrank.com/
