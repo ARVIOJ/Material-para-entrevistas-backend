@@ -21,3 +21,8 @@ https://www.freecodecamp.org/espanol/news/interfaces-java-explicadas-con-ejemplo
 https://coderbyte.com/sl
 
 https://www.hackerrank.com/
+
+
+## SCRUM PROCESS
+
+https://ausum.cloud/scrum-metodologia-agil-mas-popular-en-empresas/
