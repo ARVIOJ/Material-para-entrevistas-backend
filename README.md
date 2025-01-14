@@ -16,6 +16,7 @@ https://blog.devgenius.io/mastering-java-streams-and-lambdas-a-sum-of-even-numbe
 https://www.freecodecamp.org/espanol/news/interfaces-java-explicadas-con-ejemplos/
 
 ### 🔻 consumer
+https://docs.oracle.com/en/java/javase/11/docs//api/java.base/java/util/function/Consumer.html
 
 ### 🔻 practicar para las entrevistas
 https://coderbyte.com/sl
