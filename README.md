@@ -15,6 +15,7 @@ https://blog.devgenius.io/mastering-java-streams-and-lambdas-a-sum-of-even-numbe
 ### interface
 https://www.freecodecamp.org/espanol/news/interfaces-java-explicadas-con-ejemplos/
 
+### consumer
 
 ### practicar para las entrevistas
 https://coderbyte.com/sl
