@@ -23,6 +23,8 @@ https://coderbyte.com/sl
 
 https://www.hackerrank.com/
 
+### 🔻 Programaciòn funcional
+https://github.com/lcamach/programacion-funcional-usando-java/blob/develop/programaci%C3%B3n-funcional-usando-java.pdf
 
 ## 🔻 SCRUM PROCESS
 
