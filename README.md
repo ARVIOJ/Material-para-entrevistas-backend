@@ -6,7 +6,7 @@ https://ed.team/comunidad/pilares-de-la-poo
 ### 🔻 lambdas en java
 https://www.w3schools.com/java/java_lambda.asp
 
-### linkedlist
+### Arraylist
 
 ### hashmap
 https://www.w3schools.com/java/java_hashmap.asp
