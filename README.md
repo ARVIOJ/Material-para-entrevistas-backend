@@ -6,12 +6,16 @@ https://ed.team/comunidad/pilares-de-la-poo
 ### 🔻 lambdas en java
 https://www.w3schools.com/java/java_lambda.asp
 
-### Arraylist
+https://blog.devgenius.io/mastering-java-streams-and-lambdas-a-sum-of-even-numbers-example-a1a0ea87f20d
 
-### hashmap
+### 🔻 Arraylist
+
+### 🔻 hashmap
 https://www.w3schools.com/java/java_hashmap.asp
 
-https://blog.devgenius.io/mastering-java-streams-and-lambdas-a-sum-of-even-numbers-example-a1a0ea87f20d
+### 🔻 stream
+https://docs.oracle.com/javase/8/docs/api/java/util/stream/Stream.html
+
 
 ### 🔻 programacion funcional
 
